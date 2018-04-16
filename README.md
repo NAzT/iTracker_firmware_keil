@@ -9,7 +9,7 @@
 ## 1.4	Install nRF Connect(phone)
 
  
-# 1. Download iTracker’s keil project
+# 2. Download iTracker’s keil project
 
 Download iTracker’s keil project from below link:
 https://github.com/RAKWireless/iTracker_firmware_keil
